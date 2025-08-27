@@ -80,9 +80,9 @@ Insight: Impressions have grown significantly over the years, with 2023 reaching
 - Engagement surged in **2020 (25K likes)** and maintained a steady high through **2023 (24K likes)**.
 - **November** and **February** were the peak months for user interaction, showing consistent seasonal interest.
 
-## 🔷 LinkedIn Dashboard
+## 🔷 Customer Dashboard
 
-![LinkedIn Dashboard](linkedin.png)
+![LinkedIn Dashboard](https://github.com/ClemcyJesus/E-Commerce-Analysis/blob/main/images/Customer.png)
 
 ### 💡 Key Highlights:
 - **Total Engagement**: 0.18K | **Post-Clicks**: 0.13K
