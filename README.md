@@ -1,4 +1,4 @@
-# Social Media Engagements Dashboard 🌐📊
+# E-Commerce Analysis
 
 This repository contains a comprehensive social media engagements dashboard designed to visualize and analyze key metrics across various platforms like **Facebook**, **LinkedIn**, **Twitter** and **Instagram**, using **Python**, **Excel** and **Power BI** tools for a clearer interaction.
 Also, the dashboard provides an interactive interface to explore total impressions, likes, engagements, shares, and more, with detailed breakdowns by year, month, week, content type, and user contributions. Below is a detailed description of the dashboard's features, data points, and insights derived from the provided images. 📈🔍
