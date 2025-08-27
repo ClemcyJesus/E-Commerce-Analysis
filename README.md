@@ -69,9 +69,9 @@ Data Range: 0M to 5M impressions.
 Insight: Impressions have grown significantly over the years, with 2023 reaching 5M, indicating increased reach. 🚀
 -----
 
-## 🔷 Facebook Dashboard
+## 🔷 Sales Dashboard
 
-![Facebook Dashboard](facebook.png)
+![Facebook Dashboard](images/Sales.png)
 
 ### 💡 Key Highlights:
 - **Total Impressions**: **2.48M** | **Total Likes**: **24.5K** | **Total Engagements**: **112.42K**
