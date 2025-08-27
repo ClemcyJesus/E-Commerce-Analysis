@@ -24,22 +24,33 @@ The dataset contains transaction-level records with the following fields:
 
 - Country – Customer’s location
 
-# Key Metrics Display 📋
 
-The dashboard presents the following aggregated metrics:
-Total Impressions: Ranges from 0.11M to 2.48M across different datasets. 👀
-Total Likes: Ranges from 0.05K to 24.5K. 💖
-Total Engagements: Ranges from 0.18K to 11.242K. 📣
-Total Shares: Ranges from 0K to 1.96K. 🔗
-Total Post Clicks: Ranges from 0.13K to 1.01K. ⬇
-Total Reactions: Ranges from 2.36K to 2.36K (consistent in some datasets). 😊
-Total Users Engaged: Up to 58.19K in some instances. 👥
+# Key Analysis Goals📋
 
-## Total Analysis Breakdowns 🔎
-The dashboard allows filtering by:
-Total Analysis by Year: Aggregated data over multiple years. 📅
-Total Analysis by Month: Monthly breakdown of metrics. 🌙
-Total Analysis by Week: Weekly insights. 📆
+- Identify top-selling products by quantity and revenue
+
+- Track total revenue and total products sold over time
+
+- Measure customer purchasing patterns (e.g., frequency, invoice count)
+
+- Compare year-over-year and quarterly trends
+
+- Build KPI dashboards (e.g., Total Revenue, Products Sold, Distinct Customers)
+
+- Analyze regional performance by country
+
+## Insights & KPIs🔎
+- Total Revenue Generated across all transactions
+
+- Total Products Sold (sum of quantity)
+
+- Top N Products (by sales & revenue contribution)
+
+- Customer Segmentation (high-value vs low-value customers)
+
+- Time Series Trends (monthly, quarterly, yearly)
+
+- Geographical Analysis of sales by country
 
 ## Detailed Visualizations 🎨
 
