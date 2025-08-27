@@ -2,6 +2,7 @@
 
 This project explores an E-Commerce transactional dataset to uncover insights into customer behavior, product performance, and revenue trends. Using Power BI, SQL, Python, and Excel, the analysis provides a data-driven view of sales operations, helping businesses make smarter decisions.. 📈🔍
 
+
 ## Dataset Description 🏠
 
 The dataset contains transaction-level records with the following fields:
@@ -39,6 +40,7 @@ The dataset contains transaction-level records with the following fields:
 
 - Analyze regional performance by country
 
+
 ## Insights & KPIs🔎
 - Total Revenue Generated across all transactions
 
@@ -52,41 +54,17 @@ The dataset contains transaction-level records with the following fields:
 
 - Geographical Analysis of sales by country
 
-## Detailed Visualizations 🎨
 
-**1. Content Type Analysis 📷🎥**
-Visualization: Donut chart showing the distribution of likes and views by content type.
-Categories: Photo, Video, Text, Link (proportions vary by dataset).
-Insight: The dominant content type varies, with "Photo" often leading, indicating that photo-based content tends to drive the most engagement. 🌟
+## Tools & Skills Used 🎨
 
-**2. Sum of Likes by Marketers 👤**
-Visualization: Bar chart displaying contributions by individual marketers.
-Examples: Names like Sophia, Blessing, Aramde, Kemi, etc., with like counts ranging from 0.3K to 4K.
-Insight: Top contributors (e.g., Sophia with 4K likes) significantly influence overall engagement, suggesting targeted efforts by key individuals. ⭐
+- Power BI – Interactive dashboards, KPIs, and trend visualizations
 
-**3. Sum of Likes and Post Clicks (All) by Year 📊**
-Visualization: Bar chart with dual metrics (likes and post clicks) over years.
-Data Range: Likes from 2K to 5K, Post Clicks from 2K to 3K.
-Insight: Engagement through likes and clicks shows variability, with potential peaks in certain years requiring further investigation. 📈
+- SQL – Data cleaning, aggregation, and querying
 
-**4. Total Engagements/Impressions by Year 📅**
-Visualization: Line graph tracking engagements or impressions over years (2016–2023).
+- Python (Pandas, Matplotlib) – Exploratory Data Analysis (EDA) and visualization
 
-**Trends:**
-Some datasets show a decline from 2K to 0.2K engagements.
-Others show a rise from 1K to 2.6K engagements or 0.1M to 5M impressions.
-Insight: Engagement trends vary; some periods show growth (e.g., 2020–2021), while others decline, possibly due to seasonal factors or content strategy shifts. 🔄
+- Excel – Quick summaries, pivot tables, and checks
 
-**5. Sum of Likes by Month 🌙**
-Visualization: Bar chart showing monthly like distribution.
-Data Range: 0.5K to 15K likes across months (e.g., January to December).
-Insight: Peaks in certain months (e.g., January with 15K or 1.5K) suggest seasonal engagement spikes, possibly tied to campaigns or events. 📅
-
-**6. Total Impressions by Year 📊**
-Visualization: Bar chart showing impressions by year.
-Data Range: 0M to 5M impressions.
-Insight: Impressions have grown significantly over the years, with 2023 reaching 5M, indicating increased reach. 🚀
------
 
 ## 🔷 Sales Dashboard
 
