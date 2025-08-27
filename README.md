@@ -1,20 +1,28 @@
 # E-Commerce Analysis
 
-This repository contains a comprehensive social media engagements dashboard designed to visualize and analyze key metrics across various platforms like **Facebook**, **LinkedIn**, **Twitter** and **Instagram**, using **Python**, **Excel** and **Power BI** tools for a clearer interaction.
-Also, the dashboard provides an interactive interface to explore total impressions, likes, engagements, shares, and more, with detailed breakdowns by year, month, week, content type, and user contributions. Below is a detailed description of the dashboard's features, data points, and insights derived from the provided images. 📈🔍
+This project explores an E-Commerce transactional dataset to uncover insights into customer behavior, product performance, and revenue trends. Using Power BI, SQL, Python, and Excel, the analysis provides a data-driven view of sales operations, helping businesses make smarter decisions.. 📈🔍
 
-## Dashboard Overview 🏠
+## Dataset Description 🏠
 
-The dashboard is titled "Social Media Engagements" and includes the following navigation tabs:
-- Home 🏠
-- Impressions 👁
-- Likes ❤
-- Engagements 🤝
-- Shares 🔄
-- Twitter 🐦
-- LinkedIn 💼
-- Facebook 👍
-- Instagram 📷
+The dataset contains transaction-level records with the following fields:
+
+- StockCode – Unique product code
+
+- Description – Product name/description
+
+- Quantity – Number of items purchased per transaction
+
+- InvoiceDate – Date of purchase
+
+- UnitPrice – Price per unit of product
+
+- CustomerID – Unique customer identifier
+
+- Year, Month, Day, Quarter – Derived date attributes for time-series analysis
+
+- Revenue – Total sales value (Quantity × UnitPrice)
+
+- Country – Customer’s location
 
 # Key Metrics Display 📋
 
