@@ -3,7 +3,7 @@
 This project explores an E-Commerce transactional dataset to uncover insights into customer behavior, product performance, and revenue trends. Using Power BI, SQL, Python, and Excel, the analysis provides a data-driven view of sales operations, helping businesses make smarter decisions.. 📈🔍
 
 
-## Dataset Description 🏠
+## Dataset Description 🚀 
 The dataset contains transaction-level records with the following fields:
 - StockCode – Unique product code
 - Description – Product name/description
@@ -16,7 +16,7 @@ The dataset contains transaction-level records with the following fields:
 - Country – Customer’s location
 
 
-# Key Analysis Goals📋
+# Key Analysis Goals 🚀 
 - Identify top-selling products by quantity and revenue
 - Track total revenue and total products sold over time
 - Measure customer purchasing patterns (e.g., frequency, invoice count)
@@ -25,7 +25,7 @@ The dataset contains transaction-level records with the following fields:
 - Analyze regional performance by country
 
 
-## Insights & KPIs🔎
+## Insights & KPIs 🚀 
 - Total Revenue Generated across all transactions
 - Total Products Sold (sum of quantity)
 - Top N Products (by sales & revenue contribution)
@@ -34,30 +34,36 @@ The dataset contains transaction-level records with the following fields:
 - Geographical Analysis of sales by country
 
 
-## Tools & Skills Used 🎨
+## Tools & Skills Used 🚀 
 - Power BI – Interactive dashboards, KPIs, and trend visualizations
 - SQL – Data cleaning, aggregation, and querying
 - Python (Pandas, Matplotlib) – Exploratory Data Analysis (EDA) and visualization
 - Excel – Quick summaries, pivot tables, and checks
 
 
-## 🔷 Deliverables
+## 🔷 Deliverables 🚀 
 - Power BI Dashboard for interactive analysis
 - SQL queries for revenue, customer, and product analysis
 - Python notebooks for EDA and visualization
 - Documentation & Insights for business decision-making
 
+
+## Business Impact 🚀 
+This analysis equips stakeholders with actionable insights into sales growth, customer retention, and inventory management. It provides a foundation for:
+Strategic product planning (identify best-sellers & slow movers)
+- Revenue forecasting
+- Customer-focused marketing campaigns
+- Operational efficiency improvements
   
-![Facebook Dashboard](images/Sales.png)
+
 
 ### 💡 Key Highlights:
-- **Total Impressions**: **2.48M** | **Total Likes**: **24.5K** | **Total Engagements**: **112.42K**
-- **Photo content dominates** with **80K likes**, far outpacing video, text, and link types.
-- **Damilare Oyelami** and **Aramide Salami** were the top-performing marketers with **35K** and **34K likes** respectively.
-- Engagement surged in **2020 (25K likes)** and maintained a steady high through **2023 (24K likes)**.
-- **November** and **February** were the peak months for user interaction, showing consistent seasonal interest.
-
-## 🔷 Customer Dashboard
+- **Customer Behaviour**: **Who are the top customers by revenue and invoice count?
+- Do customers from different countries show different buying habits?
+- What is the customer retention trend over time?
+- 
+## 🔷 Customer Dashboard(E-Commerce-Analysis/images
+/Customer.png) 
 
 ![LinkedIn Dashboard](https://github.com/ClemcyJesus/E-Commerce-Analysis/blob/main/images/Customer.png)
 
@@ -98,8 +104,8 @@ Growth Potential: The rise in impressions suggests expanding reach; consider sca
 
 ## Contact details ☎📞
 
-- Email address: ikanostic@gmail.com
-- WhatsApp: +2348148283571
+- Email address: clemcyjesus@gmail.com
+- WhatsApp: +2348164649985
 - Twitter: @ikanostic
 - Telegram: @ikanostic
   
