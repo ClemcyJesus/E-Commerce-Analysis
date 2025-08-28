@@ -83,12 +83,14 @@ Strategic product planning (identify best-sellers & slow movers)
 - Seasonal spikes indicate periodic demand patterns (useful for forecasting).
 
 
+
 **Overall Insights & Recommendations ✨💡**
 **Insights**: **
 - Customer Behaviour: A small segment of customers drives most revenue (Pareto effect), with retention challenges over time.
 -  Product Performance: Few top products dominate sales, while several items show slow movement and limited contribution.
 - Sales Revenue: Revenue shows clear seasonal patterns with peaks during specific months, and strong reliance on top customers/products.
 - Certain regions contribute significantly more to total revenue, highlighting opportunities for market expansion.
+
 
 
   **Recommendations**: **
