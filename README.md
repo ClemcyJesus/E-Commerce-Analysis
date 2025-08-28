@@ -3,8 +3,7 @@
 This project explores an E-Commerce transactional dataset to uncover insights into customer behavior, product performance, and revenue trends. Using Power BI, SQL, Python, and Excel, the analysis provides a data-driven view of sales operations, helping businesses make smarter decisions.. 📈🔍
 
 
-## Dataset Description 🚀 (E-Commerce-Analysis/files
-/E-Commerce Cleaned.xlsx) 
+## Dataset Description 🚀
 The dataset contains transaction-level records with the following fields:
 - StockCode – Unique product code
 - Description – Product name/description
@@ -63,6 +62,7 @@ Strategic product planning (identify best-sellers & slow movers)
 - Do customers from different countries show different buying habits?
 - What is the customer retention trend over time?
 
+
   ***Insights***
 - A small % of customers contribute a large share of total revenue 
 - Frequent buyers tend to purchase higher quantities and drive most revenue
@@ -74,6 +74,7 @@ Strategic product planning (identify best-sellers & slow movers)
 - Top 10 products account for the largest share of revenue.
 - Certain products sell high volume but generate low revenue due to low pricing.
 - Identifying low-performing products supports inventory and marketing decisions.
+
 
 **Sales Revenue Analysis**: **
 - Steady growth in revenue over time with notable peaks in specific months.
@@ -91,12 +92,12 @@ Strategic product planning (identify best-sellers & slow movers)
 
 
   **Recommendations**: **
-****Customer Retention:****
+  *Customer Retention:*
 - Launch loyalty programs and targeted promotions for high-value customers.
 - Re-engage inactive customers with discounts or personalized campaigns.
 
 
-****Product Strategy:****
+*Product Strategy:*
 - Focus on top-selling products with strategic inventory planning.
 - Review pricing and marketing strategies for slow-moving items to boost sales.
 - Revenue Growth:
@@ -104,7 +105,7 @@ Strategic product planning (identify best-sellers & slow movers)
 - Diversify revenue sources by reducing overdependence on a few products/customers.
 
 
-****Regional Expansion:****
+*Regional Expansion:*
 - Strengthen presence in top-performing countries.
 - Explore underperforming markets with localized campaigns.
 
