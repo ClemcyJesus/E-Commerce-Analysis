@@ -57,7 +57,6 @@ Strategic product planning (identify best-sellers & slow movers)
 - Operational efficiency improvements
   
 
-
 ### 💡 Key Highlights:
 **Customer Behaviour**: **
 - Who are the top customers by revenue and invoice count?
@@ -65,25 +64,18 @@ Strategic product planning (identify best-sellers & slow movers)
 - What is the customer retention trend over time?
 
   ***Insights***
-
-- A small % of customers contribute a large share of total revenue (Pareto effect – 80/20 rule)
+- A small % of customers contribute a large share of total revenue 
 - Frequent buyers tend to purchase higher quantities and drive most revenue
 - Some regions show higher average revenue per customer than others
 - Customer retention drops slightly in later periods, suggesting opportunities for targeted marketing
   
-## 🔷 Customer Dashboard(E-Commerce-Analysis/images
-/Customer.png) 
-
-**Product Performance**: **(E-Commerce-Analysis/images
-/Product.png)
 
 ### 💡 Key Highlights:
 - Top 10 products account for the largest share of revenue.
 - Certain products sell high volume but generate low revenue due to low pricing.
 - Identifying low-performing products supports inventory and marketing decisions.
 
-**Sales Revenue Analysis**: **(E-Commerce-Analysis/images
-/Sales.png)
+**Sales Revenue Analysis**: **
 - Steady growth in revenue over time with notable peaks in specific months.
 - A few high-value customers and products generate the majority of revenue.
 - Certain countries contribute disproportionately to total revenue.
@@ -97,10 +89,12 @@ Strategic product planning (identify best-sellers & slow movers)
 - Sales Revenue: Revenue shows clear seasonal patterns with peaks during specific months, and strong reliance on top customers/products.
 - Certain regions contribute significantly more to total revenue, highlighting opportunities for market expansion.
 
+
   **Recommendations**: **
 ****Customer Retention:****
 - Launch loyalty programs and targeted promotions for high-value customers.
 - Re-engage inactive customers with discounts or personalized campaigns.
+
 
 ****Product Strategy:****
 - Focus on top-selling products with strategic inventory planning.
@@ -109,12 +103,13 @@ Strategic product planning (identify best-sellers & slow movers)
 - Leverage seasonal trends by planning promotions during peak months.
 - Diversify revenue sources by reducing overdependence on a few products/customers.
 
+
 ****Regional Expansion:****
 - Strengthen presence in top-performing countries.
 - Explore underperforming markets with localized campaigns.
 
-## Contact details ☎📞
 
+## Contact details ☎📞
 - Email address: clemcyjesus@gmail.com
 - WhatsApp: +2348164649985
 - Twitter: @ikanostic
