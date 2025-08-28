@@ -3,7 +3,8 @@
 This project explores an E-Commerce transactional dataset to uncover insights into customer behavior, product performance, and revenue trends. Using Power BI, SQL, Python, and Excel, the analysis provides a data-driven view of sales operations, helping businesses make smarter decisions.. 📈🔍
 
 
-## Dataset Description 🚀 
+## Dataset Description 🚀 (E-Commerce-Analysis/files
+/E-Commerce Cleaned.xlsx) 
 The dataset contains transaction-level records with the following fields:
 - StockCode – Unique product code
 - Description – Product name/description
@@ -58,49 +59,59 @@ Strategic product planning (identify best-sellers & slow movers)
 
 
 ### 💡 Key Highlights:
-- **Customer Behaviour**: **Who are the top customers by revenue and invoice count?
+**Customer Behaviour**: **
+- Who are the top customers by revenue and invoice count?
 - Do customers from different countries show different buying habits?
 - What is the customer retention trend over time?
-- 
+
+  ***Insights***
+
+- A small % of customers contribute a large share of total revenue (Pareto effect – 80/20 rule)
+- Frequent buyers tend to purchase higher quantities and drive most revenue
+- Some regions show higher average revenue per customer than others
+- Customer retention drops slightly in later periods, suggesting opportunities for targeted marketing
+  
 ## 🔷 Customer Dashboard(E-Commerce-Analysis/images
 /Customer.png) 
 
-![LinkedIn Dashboard](https://github.com/ClemcyJesus/E-Commerce-Analysis/blob/main/images/Customer.png)
+**Product Performance**: **(E-Commerce-Analysis/images
+/Product.png)
 
 ### 💡 Key Highlights:
-- **Total Engagement**: 0.18K | **Post-Clicks**: 0.13K
-- **Impressions**: 2.95K with no measurable shares
-- **Aramide Salami** is the leading contributor with over **2.9K post-clicks**
-- Engagement has dropped consistently since **2020**
-- Majority of interactions come from **video content**
+- Top 10 products account for the largest share of revenue.
+- Certain products sell high volume but generate low revenue due to low pricing.
+- Identifying low-performing products supports inventory and marketing decisions.
 
-  ## 🔷 Twitter Dashboard
-
-![Twitter Dashboard](twitter.png)
-
-### 💡 Key Highlights:
-- **13.67K Total Likes**, **1.55M Impressions**, and **58.19K Engagements**
-- Photo content dominates with **68K likes**, followed by videos and links
-- Highest engagement seen in **2019–2020** (25K–26K likes), slight recovery in 2022–2023
-- **Sophia Amuka** tops user engagement with a massive **66K likes**
-
-## 🔷 Instagram Dashboard
-
-![Instagram Dashboard](instagram.png)
-
-### 💡 Key Highlights:
-- **3.25K Total Engagements**, **2.36K Likes**, and **0.11M Impressions**
-- Engagement is dominated by **video content** (over 150K views)
-- **Blessing Ubah** led marketers with **7.3K likes**, followed by **Aramide Salami**
-- Engagement peaked in **2020**, declined afterward
+**Sales Revenue Analysis**: **(E-Commerce-Analysis/images
+/Sales.png)
+- Steady growth in revenue over time with notable peaks in specific months.
+- A few high-value customers and products generate the majority of revenue.
+- Certain countries contribute disproportionately to total revenue.
+- Seasonal spikes indicate periodic demand patterns (useful for forecasting).
 
 
-**Insights and Recommendations ✨💡**
+**Overall Insights & Recommendations ✨💡**
+**Insights**: **
+- Customer Behaviour: A small segment of customers drives most revenue (Pareto effect), with retention challenges over time.
+-  Product Performance: Few top products dominate sales, while several items show slow movement and limited contribution.
+- Sales Revenue: Revenue shows clear seasonal patterns with peaks during specific months, and strong reliance on top customers/products.
+- Certain regions contribute significantly more to total revenue, highlighting opportunities for market expansion.
 
-Content Strategy: Focus on photo-based content, as it consistently drives higher engagement. 📷
-Marketer Performance: Leverage top performers (e.g., Sophia, Blessing) for key campaigns to maximize impact. 👥
-Temporal Trends: Analyze months with high engagement (e.g., January) for optimized posting schedules. Investigate declines (e.g., 2020–2021 dips) to adjust strategies. ⏳
-Growth Potential: The rise in impressions suggests expanding reach; consider scaling content production to maintain momentum. 🌱
+  **Recommendations**: **
+****Customer Retention:****
+- Launch loyalty programs and targeted promotions for high-value customers.
+- Re-engage inactive customers with discounts or personalized campaigns.
+
+****Product Strategy:****
+- Focus on top-selling products with strategic inventory planning.
+- Review pricing and marketing strategies for slow-moving items to boost sales.
+- Revenue Growth:
+- Leverage seasonal trends by planning promotions during peak months.
+- Diversify revenue sources by reducing overdependence on a few products/customers.
+
+****Regional Expansion:****
+- Strengthen presence in top-performing countries.
+- Explore underperforming markets with localized campaigns.
 
 ## Contact details ☎📞
 
