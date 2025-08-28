@@ -4,70 +4,50 @@ This project explores an E-Commerce transactional dataset to uncover insights in
 
 
 ## Dataset Description 🏠
-
 The dataset contains transaction-level records with the following fields:
-
 - StockCode – Unique product code
-
 - Description – Product name/description
-
 - Quantity – Number of items purchased per transaction
-
 - InvoiceDate – Date of purchase
-
 - UnitPrice – Price per unit of product
-
 - CustomerID – Unique customer identifier
-
 - Year, Month, Day, Quarter – Derived date attributes for time-series analysis
-
 - Revenue – Total sales value (Quantity × UnitPrice)
-
 - Country – Customer’s location
 
 
 # Key Analysis Goals📋
-
 - Identify top-selling products by quantity and revenue
-
 - Track total revenue and total products sold over time
-
 - Measure customer purchasing patterns (e.g., frequency, invoice count)
-
 - Compare year-over-year and quarterly trends
-
 - Build KPI dashboards (e.g., Total Revenue, Products Sold, Distinct Customers)
-
 - Analyze regional performance by country
 
 
 ## Insights & KPIs🔎
 - Total Revenue Generated across all transactions
-
 - Total Products Sold (sum of quantity)
-
 - Top N Products (by sales & revenue contribution)
-
 - Customer Segmentation (high-value vs low-value customers)
-
 - Time Series Trends (monthly, quarterly, yearly)
-
 - Geographical Analysis of sales by country
 
 
 ## Tools & Skills Used 🎨
-
 - Power BI – Interactive dashboards, KPIs, and trend visualizations
-
 - SQL – Data cleaning, aggregation, and querying
-
 - Python (Pandas, Matplotlib) – Exploratory Data Analysis (EDA) and visualization
-
 - Excel – Quick summaries, pivot tables, and checks
 
 
-## 🔷 Sales Dashboard
+## 🔷 Deliverables
+- Power BI Dashboard for interactive analysis
+- SQL queries for revenue, customer, and product analysis
+- Python notebooks for EDA and visualization
+- Documentation & Insights for business decision-making
 
+  
 ![Facebook Dashboard](images/Sales.png)
 
 ### 💡 Key Highlights:
