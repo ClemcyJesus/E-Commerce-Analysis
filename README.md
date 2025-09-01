@@ -2,6 +2,10 @@
 
 This project explores an E-Commerce transactional dataset to uncover insights into customer behavior, product performance, and revenue trends. Using Power BI, SQL, Python, and Excel, the analysis provides a data-driven view of sales operations, helping businesses make smarter decisions.. 📈🔍
 
+### DASHBOARD
+![Alt text](images/Sales.png)
+
+
 
 ## Dataset Description 🚀
 The dataset contains transaction-level records with the following fields:
@@ -76,7 +80,7 @@ Strategic product planning (identify best-sellers & slow movers)
 - Identifying low-performing products supports inventory and marketing decisions.
 
 
-##Sales Revenue Analysis**: ##
+## Sales Revenue Analysis**:
 - Steady growth in revenue over time with notable peaks in specific months.
 - A few high-value customers and products generate the majority of revenue.
 - Certain countries contribute disproportionately to total revenue.
@@ -84,7 +88,7 @@ Strategic product planning (identify best-sellers & slow movers)
 
 
 
-##Overall Insights & Recommendations ✨💡##
+## Overall Insights & Recommendations ✨💡##
 **Insights**: **
 - Customer Behaviour: A small segment of customers drives most revenue (Pareto effect), with retention challenges over time.
 -  Product Performance: Few top products dominate sales, while several items show slow movement and limited contribution.
