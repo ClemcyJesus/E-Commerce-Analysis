@@ -67,7 +67,7 @@ Strategic product planning (identify best-sellers & slow movers)
 - What is the customer retention trend over time?
 
 
-  ***Insights***
+  ** Insights
 - A small % of customers contribute a large share of total revenue 
 - Frequent buyers tend to purchase higher quantities and drive most revenue
 - Some regions show higher average revenue per customer than others
@@ -80,7 +80,7 @@ Strategic product planning (identify best-sellers & slow movers)
 - Identifying low-performing products supports inventory and marketing decisions.
 
 
-## Sales Revenue Analysis**:
+## Sales Revenue Analysis:
 - Steady growth in revenue over time with notable peaks in specific months.
 - A few high-value customers and products generate the majority of revenue.
 - Certain countries contribute disproportionately to total revenue.
@@ -88,8 +88,8 @@ Strategic product planning (identify best-sellers & slow movers)
 
 
 
-## Overall Insights & Recommendations ✨💡##
-**Insights**: **
+## Overall Insights & Recommendations ✨💡
+** Insights**: 
 - Customer Behaviour: A small segment of customers drives most revenue (Pareto effect), with retention challenges over time.
 -  Product Performance: Few top products dominate sales, while several items show slow movement and limited contribution.
 - Sales Revenue: Revenue shows clear seasonal patterns with peaks during specific months, and strong reliance on top customers/products.
@@ -97,13 +97,13 @@ Strategic product planning (identify best-sellers & slow movers)
 
 
 
-  ##Recommendations**: ##
+  ## Recommendations**: 
   *Customer Retention:*
 - Launch loyalty programs and targeted promotions for high-value customers.
 - Re-engage inactive customers with discounts or personalized campaigns.
 
 
-#Product Strategy:#
+# Product Strategy:
 - Focus on top-selling products with strategic inventory planning.
 - Review pricing and marketing strategies for slow-moving items to boost sales.
 - Revenue Growth:
@@ -111,7 +111,7 @@ Strategic product planning (identify best-sellers & slow movers)
 - Diversify revenue sources by reducing overdependence on a few products/customers.
 
 
-#Regional Expansion:#
+# Regional Expansion:
 - Strengthen presence in top-performing countries.
 - Explore underperforming markets with localized campaigns.
 
