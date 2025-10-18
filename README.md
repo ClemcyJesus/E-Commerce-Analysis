@@ -118,7 +118,7 @@ Strategic product planning (identify best-sellers & slow movers)
 
 ## Contact details ☎📞
 - Contact Details
-- Email: clementt48@gmail.com
+- Email: clemcyjesus@gmail.com
 - Phone/WhatsApp: +2348164649985
 - LinkedIn: linkedin.com/in/clement-thomas-096761343
   
