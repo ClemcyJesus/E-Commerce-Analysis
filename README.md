@@ -117,10 +117,10 @@ Strategic product planning (identify best-sellers & slow movers)
 
 
 ## Contact details ☎📞
-- Email address: clemcyjesus@gmail.com
-- WhatsApp: +2348164649985
-- Twitter: @ikanostic
-- Telegram: @ikanostic
+- Contact Details
+- Email: clementt48@gmail.com
+- Phone/WhatsApp: +2348164649985
+- LinkedIn: linkedin.com/in/clement-thomas-096761343
   
 ## Technologies Used 💻
 Visualization: Built using a data visualization library (like Python(Matplotlib, Seaborn and pandas) /as well as Power BI tool)
